@@ -1,2 +1,1 @@
-# blocksail-labs-website
-A repository for BlockSail Labs Inc. website
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
